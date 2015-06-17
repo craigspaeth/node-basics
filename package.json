@@ -1,0 +1,23 @@
+{
+  "name": "node-basics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/craigspaeth/node-basics.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/craigspaeth/node-basics/issues"
+  },
+  "homepage": "https://github.com/craigspaeth/node-basics",
+  "dependencies": {
+    "express": "^4.12.4",
+    "underscore": "^1.8.3",
+  }
+}
