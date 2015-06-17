@@ -1,6 +1,7 @@
 var express = require('express');
-var app = express();
 var _ = require('underscore');
+
+var app = express();
 
 // Export app
 module.exports = app;
